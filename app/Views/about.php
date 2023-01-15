@@ -8,7 +8,7 @@
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/IMG_5926.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Mahasiswa Polsri.</h3>
@@ -34,7 +34,7 @@
               </div>
             </div>
             <p>
-              Saya adalah seorang mahasiswa politeknik negeri sriwijaya. Kampus saya terletak di Kabupaten Banyuasin. Jurusan saya adalah manajemen informatika.
+              Saya adalah seorang mahasiswa politeknik negeri sriwijaya. Kampus saya terletak di Kabupaten Banyuasin. Jurusan saya adalah manajemen informatika prodi D4.
             </p>
           </div>
         </div>

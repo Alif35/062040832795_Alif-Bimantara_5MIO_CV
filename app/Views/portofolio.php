@@ -2,17 +2,17 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Setiap rasa sakit dan kegagalan bisa membuat seseorang berkembang. kemenangan akan mudah didapat apabila seseorang tersebut bisa mengontrol dirinya.</p>
+          <h2>Lampiran</h2>
+          <p>Beberapa gambar yang pernah di buat : </p>
         </div>
 
         <div class="row">
           <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">1</li>
+              <li data-filter=".filter-card">2</li>
+              <li data-filter=".filter-web">3</li>
             </ul>
           </div>
         </div>

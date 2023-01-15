@@ -3,7 +3,7 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Setiap rasa sakit dan kegagalan bisa membuat seseorang berkembang. kemenangan akan mudah didapat apabila seseorang tersebut bisa mengontrol dirinya.</p>
+          <p>Berikut adalah Resume diri saya : </p>
         </div>
 
         <div class="row">
@@ -11,7 +11,7 @@
             <h3 class="resume-title">Sekolah Dasar</h3>
             <div class="resume-item pb-0">
               <h4>Alif Bimantara</h4>
-              <p><em>Saya adalah seorang mahasiswa politeknik negeri sriwijaya. Kampus saya terletak di Kabupaten Banyuasin. Jurusan saya adalah manajemen informatika.</em></p>
+              <p><em>Saya adalah seorang mahasiswa politeknik negeri sriwijaya. Kampus saya terletak di Kabupaten Banyuasin. Jurusan saya adalah manajemen informatika prodi D4.</em></p>
               <ul>
                 <li>Palembang, 23 Maret 2003</li>
                 <li>083170758582</li>
@@ -29,6 +29,9 @@
             <div class="resume-item">
               <h4>SMA&amp;</h4>
               <h5>2017 - 2020</h5>
+            <div class="resume-item">
+              <h4>Kuliah&amp;</h4>
+              <h5>2020 - 2024</h5>
             </div>
           </div>
           <div class="col-lg-6">

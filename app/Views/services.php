@@ -2,8 +2,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Setiap rasa sakit dan kegagalan bisa membuat seseorang berkembang. kemenangan akan mudah didapat apabila seseorang tersebut bisa mengontrol dirinya.</p>
+          <h2>Hobi</h2>
+          <p>Saya mempunyai beberapa hobi : </p>
         </div>
 
         <div class="row">
@@ -29,7 +29,7 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Catatan</a></h4>
+              <h4><a href="">Membaca</a></h4>
               <p></p>
             </div>
           </div>
@@ -42,7 +42,7 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Time</a></h4>
+              <h4><a href="">Game</a></h4>
               <p></p>
             </div>
           </div>
